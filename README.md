@@ -11,3 +11,5 @@ Place the driver in the root directory and update the path
 
 To run the project\
 python main.py
+
+**In case the email ids are existing please, update email_1 and email_2 in main.py**
